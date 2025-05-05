@@ -1898,10 +1898,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 @media(max-width: 600px){
-  .sidebar-info { gap: 25px;
-    display: block; }
-    .info_more-btn{
-      background-color: brown;
+  
   
     }
 
@@ -1913,5 +1910,5 @@ textarea.form-input::-webkit-resizer { display: none; }
   border:2px solid red;
   border-top-color: gold;
   border-right-color: gold;
-  border-radius:10px 40px ;
+  border-radius:10px ;
 }
