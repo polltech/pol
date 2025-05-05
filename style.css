@@ -1902,7 +1902,12 @@ textarea.form-input::-webkit-resizer { display: none; }
   
     }
 
-  
+  .avatar-box>img{
+  border:2px solid red;
+  border-top-color: gold;
+  border-right-color: gold;
+  border-radius:20px ;
+}
 
 
 }
@@ -1910,5 +1915,5 @@ textarea.form-input::-webkit-resizer { display: none; }
   border:2px solid red;
   border-top-color: gold;
   border-right-color: gold;
-  border-radius:10px ;
+  border-radius:20px ;
 }
